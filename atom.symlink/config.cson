@@ -5,6 +5,8 @@
       "metrics"
       "vim-mode"
       "vim-surround"
+      "relative-line-numbers"
+      "markdown-preview"
     ]
     ignoredNames: [
       ".git"
@@ -22,7 +24,6 @@
     ]
   editor:
     fontFamily: "Menlo"
-    fontSize: 12
     invisibles: {}
     showIndentGuide: true
     tabLength: 4
